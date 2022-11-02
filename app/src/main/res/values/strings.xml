@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="brush">brush</string>
+    <string name="picture">picture</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="button">button</string>
+    <string name="background">background</string>
+    <string name="please_wait">Please Wait...</string>
+</resources>
